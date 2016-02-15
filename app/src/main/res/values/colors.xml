@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#AEEA00</color>
+
+
+    <!--  AlarmCardView -->
+    <color name="alarm_cardview_background">#fdfdfd</color>
+    <color name="alarm_cardview_separator_color">#dcdcdc</color>
+    <color name="alarm_cardview_title_color">#212121</color>
+    <color name="alarm_cardview_date_time_color">#757575</color>
+
+</resources>
